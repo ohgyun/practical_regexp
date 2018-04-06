@@ -9,7 +9,7 @@
 - 그룹 상수 + while ([jsbin](http://jsbin.com/viyuroq/2/edit?js,console))
 
 ## 멀티라인
-- 멀티라인 플래그 활용 ([jsbin](http://jsbin.com/vaziwoc/1/edit?js,console))
+- 멀티라인 플래그 활용 ([jsbin](http://jsbin.com/vaziwoc/2/edit?js,console))
 
 ## 한글
 - \w는 한글을 포함하지 않음 ([regexp](https://regexr.com/3ncsc))
