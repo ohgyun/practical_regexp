@@ -13,14 +13,14 @@
 
 ## 한글
 - \w는 한글을 포함하지 않음 ([regexp](https://regexr.com/3ncsc))
-- \[\wㄱ-ㅎ가-힣] ([regexp](https://regexr.com/3ncsl)
+- \[\wㄱ-ㅎ가-힣] ([regexp](https://regexr.com/3ncsl))
 - 유니코드를 포함한 모든 문자 (\[\s\S]) ([regexp](https://regexr.com/3ncsr))
 
 ## Positive/Nagative lookahead
 - ?=, ?! ([regexp](https://regexr.com/3nct4))
 
 ## Greedy vs Non-Greedy
-- 수량자 뒤 ? = non-greedy ([jsbin](http://jsbin.com/nuyuzub/1/edit?js,console))
+- 수량자 뒤 ? = non-greedy ([jsbin](http://jsbin.com/nuyuzub/2/edit?js,console))
 
 ## 조합
 - 모두 정규식으로 해결하려고 하면 복잡해지고 디버깅하기 어려움 ([jsbin](http://jsbin.com/nodomuy/1/edit?js,console))
