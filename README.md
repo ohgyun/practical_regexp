@@ -17,7 +17,7 @@
 - 유니코드를 포함한 모든 문자 (\[\s\S]) ([regexp](https://regexr.com/3ncsr))
 
 ## Positive/Nagative lookahead
-- ?=, ?! ([regexp](https://regexr.com/3nct4)
+- ?=, ?! ([regexp](https://regexr.com/3nct4))
 
 ## Greedy vs Non-Greedy
 - 수량자 뒤 ? = non-greedy ([jsbin](http://jsbin.com/nuyuzub/1/edit?js,console))
