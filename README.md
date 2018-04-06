@@ -23,7 +23,7 @@
 - 수량자 뒤 ? = non-greedy ([jsbin](http://jsbin.com/nuyuzub/2/edit?js,console))
 
 ## 조합
-- 모두 정규식으로 해결하려고 하면 복잡해지고 디버깅하기 어려움 ([jsbin](http://jsbin.com/nodomuy/1/edit?js,console))
+- 모두 정규식으로 해결하려고 하면 복잡해지고 디버깅하기 어려움 ([jsbin](http://jsbin.com/nodomuy/2/edit?js,console))
 
 ## 테스트 코드
 - 복잡한 정규식은 테스트 코드를 남겨두면 디버깅하기 좋음 ([jsbin](http://jsbin.com/ruxokus/2/edit?js,console))
