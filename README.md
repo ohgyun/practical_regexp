@@ -14,7 +14,7 @@
 ## 한글
 - \w는 한글을 포함하지 않음 ([regexp](https://regexr.com/3ncsc))
 - \[\wㄱ-ㅎ가-힣] ([regexp](https://regexr.com/3ncsl))
-- 유니코드를 포함한 모든 문자 (\[\s\S]) ([regexp](https://regexr.com/3ncsr))
+- 개행과 유니코드를 포함한 모든 문자 (\[\s\S]) ([regexp](https://regexr.com/3ncsr))
 
 ## Positive/Nagative lookahead
 - ?=, ?! ([regexp](https://regexr.com/3nct4))
