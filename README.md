@@ -18,6 +18,12 @@
 
 ## Positive/Nagative lookahead
 - ?=, ?! ([regexp](https://regexr.com/3nct4))
+    - regex1(?=(regex2)) : Positive Lookahead : regex1 다음 regex2의 정규표현식이 일치할 경우 반환
+    - regex1(?!(regex2)) : Negative Lookahead : regex1 다음 regex2의 정규표현식이 일치하지 않을 경우 반환
+    - (?<=(regex2))regex1 : Positive Lookbehind : regex2의 정규표현식이 일치하고 regex1가 나올 경우 반환
+    - (?<!(regex2))regex1 : Negative Lookbehind : regex2의 정규표현식이 일치하지 않고 regex1가 나올 경우 반환
+
+출처: https://unlimitedpower.tistory.com/entry/정규표현식-이것이-고급이다-Positive-Negative-Lookahead-Lookbehind [오늘도 공장은 돌아간다.]
 
 ## Greedy vs Non-Greedy
 - 수량자 뒤 ? = non-greedy ([jsbin](http://jsbin.com/nuyuzub/2/edit?js,console))
